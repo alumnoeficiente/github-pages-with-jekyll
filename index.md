@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenid@ al blog definitivo"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Me alegra que hayas conseguido llegar hasta aquí, 
+hoy veremos como el inglés se enseña mal ...
